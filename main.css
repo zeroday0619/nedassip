@@ -29,7 +29,7 @@ header,
 }
 
 .top-nav-collapse {
-  background-color: #424f95 !important;
+  background-color: #f4f4f507 !important;
 }
 
 .navbar:not(.top-nav-collapse) {
@@ -51,9 +51,9 @@ h6 {
 }
 
 .rgba-gradient {
-  background: -moz-linear-gradient(45deg, rgba(42, 27, 161, 0.7), rgba(29, 210, 177, 0.7) 100%);
-  background: -webkit-linear-gradient(45deg, rgba(42, 27, 161, 0.7), rgba(29, 210, 177, 0.7) 100%);
-  background: -webkit-gradient(linear, 45deg, from(rgba(42, 27, 161, 0.7)), to(rgba(29, 210, 177, 0.7)));
-  background: -o-linear-gradient(45deg, rgba(42, 27, 161, 0.7), rgba(29, 210, 177, 0.7) 100%);
-  background: linear-gradient(to 45deg, rgba(42, 27, 161, 0.7), rgba(29, 210, 177, 0.7) 100%);
+  background: -moz-linear-gradient(45deg, rgba(43, 27, 161, 0.082), rgba(29, 210, 177, 0.11) 100%);
+  background: -webkit-linear-gradient(45deg, rgba(43, 27, 161, 0.13), rgba(29, 210, 177, 0.089) 100%);
+  background: -webkit-gradient(linear, 45deg, from(rgba(43, 27, 161, 0.096)), to(rgba(29, 210, 177, 0.151)));
+  background: -o-linear-gradient(45deg, rgba(43, 27, 161, 0.103), rgba(29, 210, 177, 0.158) 100%);
+  background: linear-gradient(to 45deg, rgba(36, 27, 161, 0.089), rgba(29, 210, 177, 0.11) 100%);
 }
