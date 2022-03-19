@@ -24,6 +24,13 @@ header,
   }
 }
 
+.view {
+  background-image: url('https://media.discordapp.net/attachments/633971402550280192/762229895857700884/Misaka.png'); 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  background-position: center center;
+}
+
 .btn .fa {
   margin-left: 3px;
 }
