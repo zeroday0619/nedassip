@@ -29,7 +29,17 @@ header,
   background-repeat: no-repeat; 
   background-size: cover; 
   background-position: center center;
+}    
+
+@media (max-width: 799px) {
+  .view {
+    background-image: url('https://s3.orbi.kr/data/file/united2/884f6f45051b4ed3a51431a217c81af0.png'); 
+    background-repeat: no-repeat; 
+    background-size: contain; 
+    background-position: center center;
+  }
 }
+
 
 .btn .fa {
   margin-left: 3px;
